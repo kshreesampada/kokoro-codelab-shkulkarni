@@ -43,3 +43,7 @@ git commit -m "Kokoro codelab prepwork"
 git push origin main
 
 
+cd ~/kokoro-codelab-shkulkarni
+mkdir -p kokoro/gcp_ubuntu
+
+
